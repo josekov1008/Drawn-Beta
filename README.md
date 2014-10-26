@@ -13,3 +13,4 @@ Curent features:
 Working on:
 - Interface tweaks
 - User identification for transmission and retrieval of data
+- Code optimization
