@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:drawn="http://schemas.android.com/res-auto"
+     >
+
+    <item
+        android:id="@+id/send_new_drawing"
+        drawn:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Send new drawing"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>

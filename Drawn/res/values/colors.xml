@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="green" type="color">#0B9960</item>
+<!--     <item name="red" type="color">#FF1212</item> -->
+	<item name="red" type="color">#C70E0E</item>
+    <item name="dark_grey" type="color">#171717</item>
+    <item name="coral" type="color">#FC583F</item>
+    <item name="light_blue" type="color">#52D1FF</item>
+    <item name="background_grey" type="color">#d3d3d3</item>
+    <item name="white" type="color">#FFFFFF</item>
+</resources>
